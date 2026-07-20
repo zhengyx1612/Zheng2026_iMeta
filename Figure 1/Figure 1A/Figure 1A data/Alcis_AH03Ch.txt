@@ -1,0 +1,17 @@
+Rel.cont	Group	OTU_ID
+0.739859353	Rel.cont.L	OTU_4
+0.914236853	Rel.cont.L	OTU_4
+0.571470147	Rel.cont.L	OTU_4
+0.008420371	Rel.cont.L	OTU_4
+0.074030107	Rel.cont.L	OTU_4
+0.000405387	Region.P.Rel.cont	OTU_4
+0.001678108	Region.P.Rel.cont	OTU_4
+0.000417014	Region.P.Rel.cont	OTU_4
+0.001723148	Region.S.Rel.cont	OTU_4
+0.001327199	Region.S.Rel.cont	OTU_4
+0.000630104	Region.S.Rel.cont	OTU_4
+0.000870251	Region.S.Rel.cont	OTU_4
+0.000516381	Region.S.Rel.cont	OTU_4
+0.000701919	Region.S.Rel.cont	OTU_4
+0.000807841	Region.S.Rel.cont	OTU_4
+0.000595133	Region.S.Rel.cont	OTU_4

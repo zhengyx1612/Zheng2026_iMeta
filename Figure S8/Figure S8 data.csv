@@ -1,0 +1,6 @@
+Amount,Levels,Group,Percentage
+6303,NSTI<=2,OTU Level,99.6
+25,NSTI>2,OTU Level,0.4
+255,weighted_NSTI<0.06,Sample Level,83.6
+27,weighted_NSTI>=0.06 & <=0.15,Sample Level,8.9
+23,weighted_NSTI>0.15,Sample Level,7.5
